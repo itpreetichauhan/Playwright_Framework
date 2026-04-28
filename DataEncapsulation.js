@@ -1,1 +1,3 @@
-dsfsdfsdf
+// Data Encapsulation in JavaScript
+
+const
